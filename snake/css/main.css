@@ -1,0 +1,29 @@
+
+body{
+	background: #000;
+}
+
+.main{
+	padding: 30px;
+	text-align: center;  
+}
+
+.block-col{
+	display: inline-block;
+    vertical-align: top;
+}
+
+.block-col--main{
+	background: #fff;
+	border: 50px solid blue;
+	border-radius: 50px;
+}
+
+.score{
+	color: #0f0;
+	width: 100px;
+	border: 3px solid #0f0;
+	text-align: right;
+	padding: 10px;
+	font-size: 3em;
+}
